@@ -1,3 +1,9 @@
+'''
+
+This file is based on https://github.com/HSE-asavchenko/HSE_FaceRec_tf/tree/master/age_gender_identity
+
+'''
+
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
